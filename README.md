@@ -106,4 +106,4 @@ The README image previews will appear after you add those files:
 
 Durga R  
 EWB Courses — Cybersecurity Mini Project  
-Batch/Course: [Fill in your official batch or course details]
+Batch:1
