@@ -2,7 +2,6 @@
 
 A beginner-friendly cybersecurity mini project written in Python. It inspects the **text** of a URL for selected warning signs that may be associated with phishing. It is designed for defensive awareness and learning.
 
-> **Safety note:** This is a heuristic learning tool, not a security verdict. “No listed warning signs found” does **not** mean a URL is safe.
 
 ## Features
 
